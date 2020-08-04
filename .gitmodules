@@ -7,3 +7,6 @@
 [submodule "so"]
 	path = so
 	url = git@github.com:samtay/so
+[submodule "ripgrep"]
+	path = ripgrep
+	url = git@github.com:BurntSushi/ripgrep.git
