@@ -4,3 +4,6 @@
 [submodule "xsv"]
 	path = xsv
 	url = git@github.com:BurntSushi/xsv.git
+[submodule "so"]
+	path = so
+	url = git@github.com:samtay/so
