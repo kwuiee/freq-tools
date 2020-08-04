@@ -1,3 +1,6 @@
 [submodule "monolith"]
 	path = monolith
 	url = git@github.com:Y2Z/monolith.git
+[submodule "xsv"]
+	path = xsv
+	url = git@github.com:BurntSushi/xsv.git
