@@ -5,3 +5,4 @@
 - [so](https://github.com/samtay/so): A terminal interface for StackOverflow
 - [ripgrep](https://github.com/BurntSushi/ripgrep): Recursively searches directories for a regex pattern
 - [grex](https://github.com/pemistahl/grex): Generating regular expressions from user-provided test cases
+- [starship](https://github.com/starship/starship): The minimal, blazing-fast, and infinitely customizable prompt for any shell!

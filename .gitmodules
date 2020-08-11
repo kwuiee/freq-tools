@@ -13,3 +13,6 @@
 [submodule "grex"]
 	path = grex
 	url = git@github.com:pemistahl/grex.git
+[submodule "starship"]
+	path = starship
+	url = git@github.com:starship/starship.git
