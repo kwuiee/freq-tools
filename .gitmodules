@@ -19,3 +19,6 @@
 [submodule "tokei"]
 	path = tokei
 	url = git@github.com:XAMPPRocky/tokei.git
+[submodule "fd"]
+	path = fd
+	url = git@github.com:sharkdp/fd.git
