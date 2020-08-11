@@ -10,3 +10,6 @@
 [submodule "ripgrep"]
 	path = ripgrep
 	url = git@github.com:BurntSushi/ripgrep.git
+[submodule "grex"]
+	path = grex
+	url = git@github.com:pemistahl/grex.git
