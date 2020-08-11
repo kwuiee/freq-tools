@@ -16,3 +16,6 @@
 [submodule "starship"]
 	path = starship
 	url = git@github.com:starship/starship.git
+[submodule "tokei"]
+	path = tokei
+	url = git@github.com:XAMPPRocky/tokei.git
