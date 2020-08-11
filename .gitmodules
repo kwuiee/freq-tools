@@ -22,3 +22,6 @@
 [submodule "fd"]
 	path = fd
 	url = git@github.com:sharkdp/fd.git
+[submodule "hyperfine"]
+	path = hyperfine
+	url = git@github.com:sharkdp/hyperfine.git
