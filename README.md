@@ -9,3 +9,4 @@
 - [tokei](https://github.com/XAMPPRocky/tokei): Displays statistics about your code.
 - [fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 - [hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
+- [bat](https://github.com/sharkdp/bat): `cat` that supports syntax highlighting for a large number of programming and markup languages

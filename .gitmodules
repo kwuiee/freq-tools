@@ -25,3 +25,6 @@
 [submodule "hyperfine"]
 	path = hyperfine
 	url = git@github.com:sharkdp/hyperfine.git
+[submodule "bat"]
+	path = bat
+	url = git@github.com:sharkdp/bat.git
