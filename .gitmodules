@@ -28,3 +28,6 @@
 [submodule "bat"]
 	path = bat
 	url = git@github.com:sharkdp/bat.git
+[submodule "fzf"]
+	path = fzf
+	url = git@github.com:junegunn/fzf.git
