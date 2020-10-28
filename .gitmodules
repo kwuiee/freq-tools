@@ -31,3 +31,6 @@
 [submodule "fzf"]
 	path = fzf
 	url = git@github.com:junegunn/fzf.git
+[submodule "pueue"]
+	path = pueue
+	url = git@github.com:Nukesor/pueue.git
