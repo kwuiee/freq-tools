@@ -10,3 +10,4 @@
 - [fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 - [hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
 - [bat](https://github.com/sharkdp/bat): `cat` that supports syntax highlighting for a large number of programming and markup languages
+- [pipe-rename](https://github.com/marcusbuffett/pipe-rename): Rename your files using your favorite text editor.
